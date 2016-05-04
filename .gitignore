@@ -61,5 +61,5 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-.gbk
-.graph
+node.map.gbk
+*.graph
